@@ -57,7 +57,6 @@ class _AllExpensesItemListVirwState extends State<AllExpensesItemListVirw> {
             ),
           ),
         ),
-        const SizedBox(width: 8),
         Expanded(
           child: GestureDetector(
             onTap: () {
